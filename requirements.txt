@@ -33,26 +33,7 @@ catalogue==1.0.2
 
 cloudpathlib==0.15.1
 cloudpickle==2.2.1
-clusteval==2.2.1
-clyent==1.2.2
 
-colourmap==1.1.16
-
-conda==23.3.1
-conda-build==3.24.0
-
-conda-repo-cli==1.0.41
-
-conda-verify==3.4.2
-
-confection==0.1.3
-constantly==15.1.0
-
-cssselect==1.1.0
-
-cymem==2.0.8
-
-daal4py==2023.0.2
 
 dataclasses-json==0.6.2
 datasets==2.14.6
