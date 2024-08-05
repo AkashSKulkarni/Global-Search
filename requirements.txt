@@ -35,11 +35,7 @@ cloudpathlib==0.15.1
 cloudpickle==2.2.1
 
 
-dataclasses-json==0.6.2
-datasets==2.14.6
 
-datashape==0.5.4
-datazets==0.1.9
 
 Deprecated==1.2.14
 
