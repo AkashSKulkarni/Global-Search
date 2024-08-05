@@ -78,8 +78,7 @@ google-pasta==0.2.0
 googleapis-common-protos==1.63.2
 goose3==3.1.17
 
-grpcio==1.64.1
-grpcio-status==1.62.2
+
 
 
 
