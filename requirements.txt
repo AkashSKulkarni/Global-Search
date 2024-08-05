@@ -80,29 +80,7 @@ goose3==3.1.17
 
 grpcio==1.64.1
 grpcio-status==1.62.2
-h11==0.14.0
 
-html5lib==1.1
-httpcore==1.0.5
-httplib2==0.22.0
-httpx==0.27.0
-huggingface-hub==0.23.4
-
-imgaug==0.4.0
-
-importlib-resources==6.0.0
-
-inflate64==0.3.1
-inflection==0.5.1
-
-jieba3k==0.35.1
-
-jsonpatch==1.33
-jsonpointer==2.1
-
-keras==2.13.1
-Keras-Applications==1.0.8
-Keras-Preprocessing==1.1.2
 
 
 
